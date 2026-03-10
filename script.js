@@ -31,4 +31,4 @@ updateImage();
 document.getElementById('prevBtn').addEventListener('click', prevImage);
 document.getElementById('nextBtn').addEventListener('click', changeImage);
 
-setInterval(changeImage,10000);
+setInterval(changeImage,7000);

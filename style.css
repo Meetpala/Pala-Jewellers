@@ -78,6 +78,36 @@ line-height:1.6;
 font-size:16px;
 }
 
+.contact{
+padding:30px 15px;
+text-align:center;
+}
+
+.contact h2{
+margin-bottom:15px;
+color:gold;
+}
+
+.contact p{
+font-size:18px;
+color:gold;
+}
+
+.location{
+padding:30px 15px;
+text-align:center;
+}
+
+.location h2{
+margin-bottom:15px;
+color:gold;
+}
+
+.location p{
+font-size:18px;
+color:white;
+}
+
 .products{
 padding:30px 15px;
 }
@@ -148,6 +178,10 @@ padding: 20px 10px;
 }
 
 .contact {
+padding: 20px 10px;
+}
+
+.location {
 padding: 20px 10px;
 }
 
